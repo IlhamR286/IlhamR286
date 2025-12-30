@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @IlhamR286<br>I'm Studying at Universitas Komputer Indonesia<br>👀 I’m interested in Machine Learning<br>🌱 I’m currently learning Python<br>Fun Fact I'm a streamer on youtube<br><br>
+👋 Hi, I’m @IlhamR286<br>I'm Studying at Universitas Komputer Indonesia<br>👀 I’m interested in Machine Learning<br>🌱 I’m currently learning Python<br><br>
 
 
 ## 🌐 Socials:
